@@ -1,0 +1,81 @@
+.container {
+    width: 430px;
+    position: relative;
+}
+
+.profile-page {
+    width: 100%;
+
+}
+
+span {
+
+    font-weight: 700;
+    font-size: 17px;
+    margin-top: -59px;
+}
+
+h5 {
+    position: absolute;
+    left: 160px;
+    top: 123px;
+
+}
+
+
+p {
+    position: absolute;
+    left: 160px;
+    top: 150px;
+}
+
+.image-container {
+    position: relative;
+    top: 12px;
+}
+
+.circular-image {
+    width: 100px;
+    height: 100px;
+    top: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+    position: absolute;
+
+}
+
+.gray-background-image {
+
+    width: 100px;
+    height: 100px;
+    top: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+    position: absolute;
+}
+
+.image-input {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    position: absolute;
+    top: 160px;
+    left: 93px;
+    background-color: #713ef3;
+    color: white;
+    border: none;
+}
+
+.image-input svg {
+    display: flex;
+    width: 15px;
+    height: 15px;
+
+}
+
+
+.metter {
+    margin-top: 23vh;
+    letter-spacing: 1px;
+
+}

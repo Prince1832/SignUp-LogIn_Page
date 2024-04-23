@@ -1,0 +1,11 @@
+
+.back-button{
+    position: relative;
+    top: 6.5vh;
+    left: 45vw;
+}
+
+svg{
+    width: 1.5em;
+    height: 1.5em;
+}

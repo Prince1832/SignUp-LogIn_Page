@@ -1,0 +1,10 @@
+.home-button {
+    position: relative;
+    top: 10vh;
+    left: 53vw;
+}
+
+svg{
+    width: 1.5em;
+    height: 1.5em;
+}

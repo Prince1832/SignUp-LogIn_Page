@@ -1,0 +1,52 @@
+.container {
+    width: 350px;
+    height: 600px;
+    margin: 50px auto;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 14px;
+    position: relative;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    font-weight: 640;
+}
+
+h6{
+    text-align: center;
+}
+
+.create_account {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 53%;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #713ef3;
+    color: white;
+}
+
+.create_account:hover{
+background-color: blueviolet;
+}
+
+.registered {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50%;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #713ef3;
+    color: white;
+}
+
+.registered:hover{
+    background-color: blueviolet;
+    }
